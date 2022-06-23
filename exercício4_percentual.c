@@ -1,4 +1,6 @@
-/*4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
+/*  Gustavo Henrique Tavares Isobe
+    Data: 23/06/2022 - 00:52 h
+4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
 SP – R$67.836,43
 RJ – R$36.678,66
